@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-/*
-// code for Patient DASHBOARD
+
+ // code for Patient DASHBOARD
 import App from './App';
 import { ContextProvider } from './contexts/PatientContext/ContextProvider';
 
@@ -17,12 +17,11 @@ ReactDOM.render(
   
   document.getElementById('root'),
 );
-*/
 
 
 
- // code for DOCTOR DASHBOARD
-
+/*
+    // code for DOCTOR DASHBOARD
 import App2 from './App2';
 import { ContextProvider } from './contexts/DoctorContext/DocContextProvider';
  ReactDOM.render(
@@ -36,4 +35,4 @@ import { ContextProvider } from './contexts/DoctorContext/DocContextProvider';
   document.getElementById('root'),
 );
 
-
+*/

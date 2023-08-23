@@ -549,7 +549,16 @@ export const links = [
   },
 
 ];
+export const data1=[
+  
+  {
+    title:'htes',
+    img:'cmm',
+    description:'cx dfbvsef df'
+  },
+  
 
+];
 export const cartData = [
   {
     image:
@@ -3063,17 +3072,66 @@ export const lineChartData = [
 ];
 export const dropdownData = [
   {
+    Id: '0',
+    City: 'City',
+  },
+  {
     Id: '1',
-    Time: 'March 2021',
+    City: 'Mumbai',
   },
   {
     Id: '2',
-    Time: 'April 2021',
+    City: 'Pune',
   }, {
     Id: '3',
-    Time: 'May 2021',
+    City: 'Delhi',
   },
+  {
+    Id:'4',
+    City:'Kolkatta',
+  },
+   {
+    Id:'5',
+    City:'Chennai'
+   },
+   {
+    Id:'6',
+    City:'Benglore'
+   }  ,
 ];
+
+export const dropdown1Data =[
+  {
+    Id :'1',
+    Dr:'Dentist'
+  },
+  {
+    Id :'2',
+    Dr:'Gynecologist/Obstetrician'
+  },
+  {
+    Id :'3',
+    Dr:'General Physician'
+  },
+  {
+    Id :'4',
+    Dr:'Dermatologist'
+  },
+  {
+    Id :'5',
+    Dr:'Ear-nose-throat (ent) specialist'
+  },
+  {
+    Id :'6',
+    Dr:'Homoeopath'
+  },
+  {
+    Id :'7',
+    Dr:'Ayurveda'
+  },  
+]
+
+
 export const SparklineAreaData = [
   { x: 1, yval: 2 },
   { x: 2, yval: 6 },

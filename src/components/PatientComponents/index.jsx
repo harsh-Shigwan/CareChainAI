@@ -14,5 +14,6 @@ export { default as Stacked } from '../PatientComponents/Charts/Stacked';
 export { default as Pie } from '../PatientComponents/Charts/Pie';
 export { default as ChartsHeader } from '../PatientComponents/ChartsHeader';
 export { default as Header } from '../PatientComponents/Header';
+//export {default as HorizontalImageCardList} from '../PatientComponents/HorizontalImageCardList';
 //export { default as Finances} from './finances';
 

@@ -67,7 +67,7 @@ const App2 = () => {
               <Routes>
                 {/* dashboard  */}
                 <Route path="/" element={(<Doctor_Dashboard />)} />
-                <Route path="/Doctor_Dashboard" element={(<Doctor_Dashboard />)} />
+                <Route path="/Patient_Dashboard" element={(<Doctor_Dashboard />)} />
                 
 
                 {/* pages  */}
